@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Lab3_Navlab_S76149" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Lab3_Navlab_S76149" parent="Base.Theme.Lab3_Navlab_S76149" />
+</resources>
